@@ -14,7 +14,7 @@ Pastikan Anda telah menginstal software berikut sebelum menjalankan proyek ini:
 1. Clone repositori ini:
 
    ```sh
-   git clone https://github.com/risky-prasetyo/project-dicoding.git
+   git clone https://github.com/Riskypr/note-app.git
    ```
 
 2. Instal dependensi:
